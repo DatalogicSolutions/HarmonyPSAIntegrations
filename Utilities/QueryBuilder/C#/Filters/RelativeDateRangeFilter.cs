@@ -1,6 +1,4 @@
-﻿using Newtonsoft.Json;
-
-namespace QueryBuilderLib.Filters
+﻿namespace QueryBuilderLib.Filters
 {
     // Currently unsupported
     //public class RelativeDateRangeFilter : DateRangeFilter
